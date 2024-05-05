@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url(Background.jpeg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr{
+    border-color: black;
+}
+
+button{
+    background-color: rgb(80, 137, 212);
+    color: white;
+    border-radius: 5px;
+}
